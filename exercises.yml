@@ -1,0 +1,9 @@
+name: exercises
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn 
+  - scikit-learn 
